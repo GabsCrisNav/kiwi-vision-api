@@ -1,4 +1,7 @@
-# Reto_Fruitloops
+# KIWI VISION 🥝 
+## Desctiption of the Poryect
+Development of a system for recognizing and classifying fruits and vegetables using machine learning models, aiming to improve inventory management, quality control, and customer experience for SMEs.
+
 # Flask API and Python Environment Setup
 
 This repository contains a basic guide to set up a Flask API and Python environment. Follow these steps to get started with your project.
