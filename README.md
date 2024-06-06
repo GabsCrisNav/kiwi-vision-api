@@ -1,6 +1,9 @@
 # KIWI VISION 🥝 
-## Desctiption of the Poryect
+## Description of the Proyect
 Development of a system for recognizing and classifying fruits and vegetables using machine learning models, aiming to improve inventory management, quality control, and customer experience for SMEs.
+
+### Link to the proyect working
+[App](https://kiwi-vision-client.onrender.com/)
 
 # Flask API and Python Environment Setup
 
